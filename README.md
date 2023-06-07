@@ -3,7 +3,7 @@
 
 - 🌱 No momento estou aprendendo **Javascript e frameworks Vue.Js e Angular**
 
-- ☕︎ Ja tenho experiência em **Java e seus frameworks Spring e estou aumentando a experiência em Micro Serviços**
+- ☕︎ Ja tenho experiência em **Java e seu framework Spring e estou aumentando a experiência em Micro Serviços**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
