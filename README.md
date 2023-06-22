@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo Ferreira Junior</h1>
 <h3 align="center">Sou Devolper back-end Java</h3>
 
-- 🌱 No momento estou aprendendo **Javascript e frameworks Vue.Js e Angular**
-
-- ☕︎ Ja tenho experiência em **Java e seu framework Spring e estou aumentando a experiência em Micro Serviços**
+- 💻 Recém-formado em Engenharia da Computação
+- 🌱 Estudando  **Java e seu Framework Spring. Javascript e framework Angular e biblioteca React**
+- ☕︎ Desenvolvo projetos pessoais e alguns projetos freelancer para aprimorar minhas habilidades e adquirir experiências
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
