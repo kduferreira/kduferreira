@@ -2,7 +2,7 @@
 <h3 align="center">Sou Devolper back-end Java</h3>
 
 - 💻 Recém-formado em Engenharia da Computação
-- 🌱 Estudando  **Java e seu Framework Spring. Javascript e typescript com framework Angular e biblioteca React**
+- 🌱 Estudando  **Java e seu Framework Spring. Javascript e typescript com framework Angular **
 - ☕︎ Desenvolvo projetos pessoais e alguns projetos freelancer para aprimorar minhas habilidades e adquirir experiências
 
 <h3 align="left">Connect with me:</h3>
