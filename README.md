@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo Ferreira Junior</h1>
-<h3 align="center">Sou Devolper back-end Java</h3>
+
 
 - 💻 Recém-formado em Engenharia da Computação
 - 🌱 Estudando  **Java e seu Framework Spring. Javascript e typescript com framework Angular **
