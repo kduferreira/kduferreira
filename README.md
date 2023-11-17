@@ -20,6 +20,8 @@
 
 <h2 align="left">Projetos em Angular:</h2>
 <code><a href="https://angular-blog-gules.vercel.app" target="blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"></a></code>
+<h2 align="left">Projetos em Java:</h2>
+<code><a href="#" target="blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"></a></code>
 
 
 # 📊 GitHub Stats:
