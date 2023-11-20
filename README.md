@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Eduardo Ferreira Junior</h1>
+![image](https://github.com/kduferreira/kduferreira/assets/110642509/0778145b-07b7-4c10-a16a-939e5b48fc9c)<h1 align="center">Hi 👋, I'm Carlos Eduardo Ferreira Junior</h1>
 
 
 - 💻 Recém-formado em Engenharia da Computação
@@ -21,8 +21,7 @@
 <h2 align="left">Projetos em Angular:</h2>
 <code><a href="https://angular-blog-gules.vercel.app" target="blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"></a></code>
 <code><a href="https://workout-angular.vercel.app" target="blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png"></a></code>
-<code><a href="https://playstation-store-xi.vercel.app" target="blank"><img height="40" src="![image](https://github.com/kduferreira/kduferreira/assets/110642509/3f62ba2d-f7d5-469f-a21d-e24f0d416c3e)
-"></a></code>
+<code><a href="https://playstation-store-xi.vercel.app" target="blank"><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-playstation-40-739542.png"></a></code>
 
 
 
