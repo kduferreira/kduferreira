@@ -1,4 +1,4 @@
-![image](https://github.com/kduferreira/kduferreira/assets/110642509/a09477f6-22e1-4b55-ad7a-bf987f27fc19)<h1 align="center">Hi 👋, I'm Carlos Eduardo Ferreira Junior</h1>
+<h1 align="center">Hi 👋, I'm Carlos Eduardo Ferreira Junior</h1>
 
 
 - 💻 Recém-formado em Engenharia da Computação
