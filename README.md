@@ -1,4 +1,4 @@
-
+<h2>Hello World, I'm Carlos Eduardo 👋</h2>
 - 💻 Recém-formado em Engenharia da Computação
 - 🌱 Estudando  **Java e seu Framework Spring. Javascript e typescript com framework Angular **
 - ☕︎ Desenvolvo projetos pessoais e alguns projetos freelancer para aprimorar minhas habilidades e adquirir experiências
