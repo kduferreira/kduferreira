@@ -1,4 +1,13 @@
-<h2>Hello World, I'm Carlos Eduardo 👋</h2>
+<h1 align= 'center'>Hello World, I'm Carlos Eduardo 👋</h1>
+
+
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+  
+   <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
+  <!-- <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
+  
+</div>
 
 - 💻 Recém-formado em Engenharia da Computação
 - 🌱 Estudando  **Java e seu Framework Spring. Javascript e typescript com framework Angular **
@@ -23,8 +32,9 @@
 ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### ⚡ &nbsp;Database
 
