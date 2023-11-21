@@ -1,5 +1,3 @@
-![image](https://github.com/kduferreira/kduferreira/assets/110642509/0778145b-07b7-4c10-a16a-939e5b48fc9c)<h1 align="center">Hi 👋, I'm Carlos Eduardo Ferreira Junior</h1>
-
 
 - 💻 Recém-formado em Engenharia da Computação
 - 🌱 Estudando  **Java e seu Framework Spring. Javascript e typescript com framework Angular **
