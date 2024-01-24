@@ -12,7 +12,8 @@
 
  
 - 💻 Recém-formado em Engenharia da Computação
-- 🌱 Estudando  **Java e seu Framework Spring. Javascript e typescript com framework Angular **
+- 🌱 Estudando  **Nodejs e seu Framework ExpressJS. Javascript e typescript com framework Angular e React **
+  
 - ☕︎ Desenvolvo projetos pessoais e alguns projetos freelancer para aprimorar minhas habilidades e adquirir experiências
 
 
