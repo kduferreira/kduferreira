@@ -45,6 +45,7 @@
 
 <h2 align="left">Projetos em Angular:</h2>
 <code><a href="https://angular-blog-gules.vercel.app" target="blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"></a></code>
+<code><a href="https://follow-angular.vercel.app/home" target="blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"></a></code>
 <code><a href="https://workout-angular.vercel.app" target="blank"><img height="40" src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png"></a></code>
 <code><a href="https://playstation-store-xi.vercel.app" target="blank"><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-playstation-40-739542.png"></a></code>
 
